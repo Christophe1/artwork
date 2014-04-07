@@ -1,0 +1,43 @@
+Installing Maths-Master 
+
+
+Maths-Master has to be installed onto your computer before you can use it. 
+
+
+To install Maths-Master :
+
+
+1. Insert the Maths-Master CD-ROM into your CD-ROM drive. The installer should start by itself in a few moments. 
+
+If the installer doesn't start automatically, from the Windows Start menu select Run. Enter the drive letter associated with your CD-ROM drive, then
+
+    :\autorun.exe
+
+    and click OK. 
+
+
+
+2. When the Installer appears, choose the Maths-Master product of your choice. You can always choose more products later by contacting us for an Unlock Code.
+
+
+
+3. In the Choose Destination Location, the default location is in your computer's Program Files folder. Click the Browse button, located beside the white text box, to install Maths-Master into a different folder.
+
+Once your Maths-Master product has been installed all you need to do in future is to click the Maths-Master icon which appears on your desktop, and this will run the program.
+
+ 
+
+Note: On most newer operating systems, Macromedia Shockwave Flash technology is included with Windows. Shockwave Flash is required for Maths-Master to work correctly. 
+
+Shockwave Flash is included on the Maths-Master CD-ROM, in the Shockwave folder. 
+
+You will need to install Shockwave Flash if:
+
+1. You receive an error message in relation to a file called 'SWFLASH.OCX' when you are using Maths-Master.
+
+2. The buttons in Maths-Master are not visible, or are not functioning correctly.
+
+If either of the above problems occur, or you are in doubt as to whether or not Shockwave Flash is on your computer, install it from the Maths-Master CD-ROM, in the Shockwave folder.
+
+
+ 
